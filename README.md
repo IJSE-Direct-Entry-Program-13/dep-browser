@@ -1,1 +1,1 @@
-# dep-browser
+# DEP Browser
